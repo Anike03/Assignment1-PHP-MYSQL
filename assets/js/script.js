@@ -1,5 +1,3 @@
-// Optional JavaScript for interactivity
-// Example: Add interactivity to team and player cards
 document.addEventListener("DOMContentLoaded", function () {
     const teamCards = document.querySelectorAll(".team-card");
     const playerCards = document.querySelectorAll(".player-card");
